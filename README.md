@@ -92,10 +92,6 @@ https://codelabs-preview.appspot.com/?file_id=1ekki1IRFRRQtfkp2s1Gbq-2WSHqeQv39C
    └─ snowpark_utils.py
 ```
 
-# SnowPark Forked Repository
-
-Prathamesh - https://github.com/PrathamHusky07/Snowpark_Pipelines
-
 # Environment Variables
 
 ```
@@ -160,10 +156,6 @@ $ cd ..
 ```
 streamlit run AskMe.py
 ```
-
-# ATTESTATION:
-
-I ATTEST THAT I HAVEN’T USED ANY OTHER STUDENTS’ WORK IN MY ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK.
 
 # LICENSE: 
 
